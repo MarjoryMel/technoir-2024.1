@@ -13,7 +13,7 @@
 
 - [Gabriel Tavares]()
 
-- [Leila Minello]()
+- [Leila Minello](https://github.com/leila-minello)
 
 - [Kauan Gonçalves]()
 
