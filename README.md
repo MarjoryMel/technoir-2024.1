@@ -1,5 +1,6 @@
 # TechNoir
 
+![Logo do Grupo](techNoirLogoWhite.png)
 
 ## Disciplina: Desenolvimento Ágil
 **Ano:** [2024] **Semestre:** [1]
