@@ -1,6 +1,6 @@
 <div align="center">
   <h1>TECHNOIR</h1>
-  <img src="techNoirLogoWhite.png" alt="Logo do Grupo">
+  <img src="Imagens/techNoirLogoWhite.png" alt="Logo do Grupo">
 </div>
 
 
