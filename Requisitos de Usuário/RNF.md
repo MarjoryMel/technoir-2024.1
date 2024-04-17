@@ -4,7 +4,7 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RNF01 |  O site deve ser compatível com de os navegadores web: Chrome, Firefox, Opera e Edge.               |   Portabilidade      |    Alta        |        -             |
+| RNF01 |  O site deve ser compatível com de navegadores web: Chrome, Firefox, Opera e Edge.               |   Portabilidade      |    Alta        |        -             |
 | RNF02 |  x                                                                        | y              |            |                     |
 | RNF03 |  x                                                                        | y              |            |                     |
 
