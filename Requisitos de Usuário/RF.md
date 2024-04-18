@@ -7,6 +7,7 @@
 | RF01 | Os usuários devem ter a opção de criar seu perfil onde possam salvar seus jogos favoritos, histórico de compras e preferências de plataforma.  |    Alta        |     -        |
 | RF02 | Os usuários deve poder buscar jogos a partir de sua categoria.|      Média      | - |
 | RF03 | O usuário tem acesso a informações sobre os jogos.              |      Alta      |     -       |
+| RF04 | Deve ser possível aos usuários avaliar os jogos e deixar comentários para compartilhar suas opiniões com outros usuários. | Média | - |
 
 
 
