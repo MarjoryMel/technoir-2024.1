@@ -44,10 +44,16 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li></li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário registrado, desejo poder gerenciar meu perfil na plataforma e escolher minhas preferências de jogos, para que eu possa personalizar minha experiência de acordo com meus interesses e receber recomendações relevantes.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol>
+                <li>Devo ser capaz de acessar uma página de perfil onde possa visualizar e editar minhas informações pessoais, como nome, sobrenome, e-mail, senha, etc.</li>
+               <li>Devo ser capaz de alterar qualquer informação do meu perfil, exceto o e-mail, que é usado como identificador único.</li>
+                <li>Devo ser capaz de visualizar e editar minhas preferências de jogos, incluindo gêneros preferidos, plataformas de jogo (PC, console, mobile), jogos favoritos, etc.</li>
+                <li>Devo ser capaz de receber recomendações personalizadas com base nas minhas preferências de jogos.</li>
+                <li>Todas as alterações feitas no perfil e nas preferências de jogos devem ser salvas corretamente e refletidas em todas as áreas relevantes da plataforma.</li> 
+            </ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
         </tr>
 </table>
 
