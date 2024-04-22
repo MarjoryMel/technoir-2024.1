@@ -9,7 +9,7 @@
 | RF03 | O usuário tem acesso a informações sobre os jogos.              |      Alta      |     -       |
 | RF04 | Deve ser possível aos usuários avaliar os jogos e deixar comentários para compartilhar suas opiniões com outros usuários. | Média | - |
 | RF05 | Os usuários devem poder pesquisar por jogos a partir de seu nome. |     Média    |    -    |
-| RF06 | Os usuários devem poder definir os limites de preços dos jogos. |     Média    |    -    |
+| RF06 | Os usuários devem poder definir os limites de preços dos jogos que procura. |     Média    |    -    |
 
 
 
