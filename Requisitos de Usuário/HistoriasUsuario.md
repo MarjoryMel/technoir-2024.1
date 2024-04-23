@@ -55,6 +55,24 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
         </tr>
+        <tr>
+            <span id="ustory-01"></span>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário desejo acessar informações detalhadas sobre os jogos disponíveis na plataforma, para que eu possa tomar decisões antes de fazer uma compra ou jogar um título.</td>
+           <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol>
+                    <li>Deve haver uma seção ou página dedicada no site onde os jogos são listados.</li>
+                    <li>Cada jogo listado deve incluir informações como título, descrição, gênero, plataformas suportadas, data de lançamento e preço.</li>
+                    <li>Os jogos devem ser categorizados de forma clara (por gênero, popularidade, data de lançamento, etc.) para facilitar a navegação.</li>
+                    <li>Os detalhes do jogo devem ser apresentados de maneira atraente e informativa, com imagens de capa ou trailers disponíveis para uma pré-visualização.</li>
+                    <li>Os usuários devem poder clicar em um jogo para obter mais informações detalhadas.</li>
+                    <li>Todas as informações sobre os jogos devem ser atualizadas e precisas.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
+        </tr>
+        
+
 </table>
 
 <div style="text-align: center">
