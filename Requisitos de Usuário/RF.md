@@ -1,19 +1,21 @@
 # 1. Requisitos Funcionais
 
-<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
+<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utilizando a técnica de Brainstorm.</p>
 
-| ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 | Os usuários devem ter a opção de criar seu perfil.  |    Alta        |     -        |
-| RF02 | Os usuários deve poder buscar jogos a partir de sua categoria.|      Média      | - |
-| RF03 | O usuário tem acesso a informações sobre os jogos.              |      Alta      |     -       |
-| RF04 | Deve ser possível aos usuários avaliar os jogos e deixar comentários para compartilhar suas opiniões com outros usuários. | Média | - |
-| RF05 | Os usuários devem poder pesquisar por jogos a partir de seu nome. |     Média    |    -    |
-| RF06 | Os usuários devem poder definir os limites de preços dos jogos que procura. |     Média    |    -    |
-
-
+|  ID  |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
+| :--: | :-----------------------------------------------------------------------: | :--------: | :---------------------: |
+| RF01 | Os usuários devem ter a opção de criar e editar seu perfil.  |    Alta     |           -             |
+| RF02 | Os usuários devem poder visualizar a lista de jogos em promoção ou gratuitos na landing page. |    Alta     |          RF03           |
+| RF03 | O usuário deve ser redirecionado para a biblioteca de jogos ao clicar em um jogo. |    Alta     |          RF02           |
+| RF04 | Deve ser possível aos usuários habilitar notificações sobre promoções de jogos. |    Média    |          RF01           |
+| RF05 | O usuário deve poder visualizar e gerenciar uma lista de seus jogos favoritos no perfil. |    Média    |          RF01           |
+| RF06 | O site deve permitir a navegação entre as páginas: Home, Sobre Nós, Perfil e Contato através de uma navbar. |    Alta     |           -             |
+| RF07 | O site deve exibir informações sobre os criadores do site, incluindo o GitHub, na seção de rodapé (footer). |    Baixa    |           -             |
+| RF08 | A página de contato deve conter um formulário com campos para nome, email e mensagem. |    Média    |           -             |
+| RF09 | O usuário deve ser capaz de enviar uma mensagem através do formulário de contato. |    Média    |          RF08           |
+| RF10 | O footer deve incluir um campo (input) para que o usuário insira seu email para contato. |    Baixa    |           -             |
+| RF11 | O footer deve exibir links para GitHub dos criadores, contato via email, seção Sobre Nós e Ajuda. |    Baixa    |           -             |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
-
