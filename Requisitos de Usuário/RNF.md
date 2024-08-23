@@ -14,6 +14,7 @@
 | RNF08 | O site deve manter uma disponibilidade mínima de 99,5%, garantindo alta disponibilidade aos usuários. | Produto/Confiabilidade | Alta | - |
 | RNF09 | As notificações enviadas pelo sistema devem ser entregues aos usuários em até 1 minuto após o disparo. | Produto/Desempenho | Média | - |
 | RNF10 | O sistema deve garantir a segurança das transações realizadas pelos usuários, incluindo criptografia de dados sensíveis como informações de pagamento. | Produto/Segurança | Alta | RNF03 |
+| RNF11 | O sistema deve ser capaz de realizar backups automáticos dos dados do usuário a cada 24 horas para garantir a recuperação em caso de falhas. | Produto/Confiabilidade | Média | RNF03 |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
