@@ -54,11 +54,10 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo acessar informações detalhadas sobre os jogos em promoção ou gratuitos, para que eu possa decidir quais jogos adicionar aos meus favoritos.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo acessar informações detalhadas sobre os jogos em promoção ou gratuitos.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
                 <ol>
                     <li>Cada jogo listado deve incluir informações como título, descrição, plataformas suportadas e data de término da promoção.</li>
-                    <li>Os jogos devem ser categorizados para facilitar a navegação.</li>
                     <li>Deve haver um botão para adicionar o jogo aos favoritos diretamente na página de detalhes.</li>
                 </ol>
             </td>
@@ -70,8 +69,8 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo receber notificações sobre novas promoções de jogos para que eu possa aproveitar as melhores ofertas a tempo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
                 <ol>
-                    <li>O usuário deve poder habilitar notificações na página de perfil.</li>
-                    <li>As notificações devem ser enviadas por e-mail ou aparecer na plataforma, conforme as preferências definidas pelo usuário.</li>
+                    <li>O usuário deve poder habilitar/desabilitar as notificações na página de perfil.</li>
+                    <li>As notificações devem ser enviadas pelas opções escolhidas pelo usuário ou aparecer na plataforma, conforme as preferências definidas pelo usuário.</li>
                 </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
