@@ -34,3 +34,4 @@ O público-alvo primário deste projeto são os entusiastas de jogos, incluindo 
 ## Documentos Disponíveis
 
 - [Protótipo do Projeto](https://www.figma.com/design/jTOA6PjrOsS5VxB6qRMIOo/Medley-(Community)?node-id=58-2972&t=TlmnidFtDkTz9MTC-1)
+- [Slides da Apresentação](https://www.canva.com/design/DAGOufdZXCk/F7d2eDSrvl94CD_mj6ovnQ/edit?utm_content=DAGOufdZXCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
