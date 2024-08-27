@@ -18,6 +18,7 @@
 | RNF12 | O sistema deve ser escalável para permitir a adição de novos servidores sem interrupção do serviço, garantindo a capacidade de crescimento do número de usuários. | Produto/Escalabilidade  | Alta  | RNF03, RNF10 |
 | RNF13 | O sistema deve suportar escalabilidade horizontal, permitindo a adição de mais servidores para lidar com o aumento de tráfego sem comprometer o desempenho. | Produto/Desempenho | Alta | RNF07, RNF08 |
 | RNF14 | O sistema deve ser auditável, mantendo logs detalhados de todas as transações e atividades do usuário, que devem ser armazenados por no mínimo 6 meses. | Produto/Segurança | Média | RNF03, RNF10 |
+| RNF15 | O sistema deve ser projetado para minimizar o consumo de recursos no servidor, utilizando técnicas de otimização como cache de dados e compactação de arquivos estáticos. | Produto/Desempenho | Média | RNF07, RNF13|
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
