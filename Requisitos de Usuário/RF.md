@@ -18,8 +18,13 @@
 | RF12  | O usuário deve conseguir logar na sua conta.                                                                                                   |    Alta    |          RF01           |
 | RF13  | O usuário deve conseguir inserir seu email para assinar a newsletter e receber notificações de promoções.                                      |   Média    |           -             |
 | RF14  | Na página do jogo, deve ser possível adicionar o jogo aos favoritos.                                                                           |   Média    |          RF05           |
-| RF15  | Na página do jogo, ao clicar em "Acesse aqui!", o usuário deve ser redirecionado para a página da biblioteca que contém a promoção.             |    Alta    |          RF03           |
+| RF15  | Na página do jogo, ao clicar em "Acesse aqui!", o usuário deve ser redirecionado para a página da biblioteca que contém a promoção.            |    Alta    |          RF03           |
 | RF16  | O usuário deve conseguir buscar o nome do jogo na barra de pesquisa.                                                                           |    Alta    |           -             |
+| RF17  | O sistema deve enviar um email de confirmação quando o usuário criar uma nova conta.                                                           |    Alta    |          RF07           |
+| RF18  | O usuário deve poder resetar sua senha através de um link enviado para seu email.                                                              |    Alta    |          RF12           |
+| RF19  | O site deve exibir sugestões de jogos com base no histórico de jogos adicionados aos favoritos do usuário.                                     |    Alta    |       RF05, RF14        |
+| RF20  | O sistema deve permitir ao usuário filtrar jogos por status de promoção (gratuitos ou com desconto).                                           |    Alta    |       RF02, RF17        |
+| RF21  | O sistema deve permitir ao usuário compartilhar jogos de sua biblioteca nas redes sociais.                                                     |    Média   |          RF05           |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
