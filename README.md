@@ -1,11 +1,19 @@
 <div align="center">
-  <h1>PROJETO TECHNOIR</h1>
+  <h1>:star2: PROJETO TECHNOIR :star2:</h1>
   <img src="Imagens/techNoirLogoWhite.png" alt="Logo do Grupo">
 </div>
 
 ## 📚 Disciplina: Desenvolvimento Ágil
 
-**Ano:** 2024 &nbsp;&nbsp;**Semestre:** 1
+**Ano:** 2024 &nbsp;&nbsp;**Semestre:** 1 
+
+## 📑 Sumário
+
+- [Integrantes do Grupo](#-integrantes-do-grupo)
+- [Descrição do Projeto](#-descrição-do-projeto)
+- [Páginas do Site e Funcionalidades](#-páginas-do-site-e-funcionalidades)
+- [Protótipo Imagens](#protótipo-imagens)
+- [Documentos Disponíveis](#-documentos-disponíveis)
 
 ## 👥 Integrantes do Grupo
 
@@ -55,7 +63,47 @@ A página de **Perfil** exibe informações pessoais do usuário, permitindo edi
 
 Após uma pesquisa, esta página mostra os resultados com informações sobre os jogos encontrados, incluindo imagens, preços, e a plataforma onde o jogo pode ser adquirido. A navegação continua fácil com a mesma navbar e footer padrão.
 
+### Protótipo Imagens
+
+Aqui estão algumas imagens do protótipo das páginas do projeto:
+
+#### Home 
+<img src="Imagens/Protótipo/Home.png" alt="Home" width="400">
+
+#### Perfil
+<img src="Imagens/Protótipo/Perfil.png" alt="Profile" width="400">
+
+#### Cadastro
+<img src="Imagens/Protótipo/Página%20de%20Cadastro.png" alt="Registration" width="400">
+
+#### Login
+<img src="Imagens/Protótipo/Página%20de%20Login.png" alt="Login" width="400">
+
+#### Página do Jogo
+<img src="Imagens/Protótipo/Página%20do%20Jogo.png" alt="Game" width="400">
+
+#### Resultado da Pesquisa
+<img src="Imagens/Protótipo/Resultado%20da%20Pesquisa.png" alt="Search Results" width="400">
+
+#### Sobre Nós
+<img src="Imagens/Protótipo/Sobre%20nós.png" alt="About Us" width="400">
+
+#### Suporte
+<img src="Imagens/Protótipo/Suporte.png" alt="Support" width="400">
+
+#### Footer
+<img src="Imagens/Protótipo/Footer.png" alt="Footer" width="400">
+
+
 ## 📄 Documentos Disponíveis
 
 - [Protótipo do Projeto](https://www.figma.com/design/jTOA6PjrOsS5VxB6qRMIOo/Medley-(Community)?node-id=58-2972&t=TlmnidFtDkTz9MTC-1)
+- [Requisitos do Sistema](https://github.com/MarjoryMel/technoir-2024.1/tree/main/Requisitos%20do%20Sistema)
+  - [Diagrama de Classe](https://github.com/MarjoryMel/technoir-2024.1/tree/main/Requisitos%20do%20Sistema/Diagrama%20de%20Classes)
+  - [Diagrama de Casos de Uso](https://github.com/MarjoryMel/technoir-2024.1/tree/main/Requisitos%20do%20Sistema/Diagrama%20de%20Casos%20de%20Uso)
+  - [Diagrama de Atividades](https://github.com/MarjoryMel/technoir-2024.1/tree/main/Requisitos%20do%20Sistema/Diagrama%20de%20Atividades)
+- [Requisitos do Usuário](https://github.com/MarjoryMel/technoir-2024.1/tree/main/Requisitos%20de%20Usu%C3%A1rio)
+  - [Histórias de Usuário](https://github.com/MarjoryMel/technoir-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/HistoriasUsuario.md)
+  - [Requisitos Funcionais](https://github.com/MarjoryMel/technoir-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
+  - [Requisitos Não Funcionais](https://github.com/MarjoryMel/technoir-2024.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)
 - [Slides da Apresentação](https://www.canva.com/design/DAGOufdZXCk/F7d2eDSrvl94CD_mj6ovnQ/edit?utm_content=DAGOufdZXCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
