@@ -100,6 +100,61 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF16</td>
         </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US08</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo ver uma lista de meus jogos favoritos para fácil acesso.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+                <ol>
+                    <li>O perfil do usuário deve ter uma seção dedicada para listar todos os jogos marcados como favoritos.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
+        </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US09</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo resetar minha senha se esquecer para garantir a segurança da minha conta.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+                <ol>
+                    <li>Deve haver uma opção para solicitar a redefinição de senha via e-mail, e o sistema deve enviar um link seguro para a redefinição.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF18</td>
+        </tr>
+         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo receber um e-mail de confirmação quando criar uma nova conta para garantir que meu registro foi bem-sucedido.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+                <ol>
+                    <li>O sistema deve enviar um e-mail de confirmação após a criação da conta, com um link para verificar o e-mail.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF17</td>
+        </tr>
+         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+                <ol>
+                    <li>Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF18</td>
+        </tr>
+         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US12</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+                <ol>
+                    <li>Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF18</td>
+        </tr>
     </tbody>
 </table>
 
