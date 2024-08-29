@@ -1,6 +1,6 @@
 <div align="center">
   <h1>:star2: PROJETO TECHNOIR :star2:</h1>
-  <img src="Imagens/techNoirLogoWhite.png" alt="Logo do Grupo">
+  <img src="Imagens/techNoirLogoBlue.png" alt="Logo do Grupo">
 </div>
 
 ## 📚 Disciplina: Desenvolvimento Ágil
