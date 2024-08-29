@@ -25,6 +25,12 @@
 | RF19  | O site deve exibir sugestões de jogos com base no histórico de jogos adicionados aos favoritos do usuário.                                     |    Alta    |       RF05, RF14        |
 | RF20  | O sistema deve permitir ao usuário filtrar jogos por status de promoção (gratuitos ou com desconto).                                           |    Alta    |       RF02, RF17        |
 | RF21  | O sistema deve permitir ao usuário compartilhar jogos de sua biblioteca nas redes sociais.                                                     |    Média   |          RF05           |
+| RF22  | O sistema deve permitir ao usuário visualizar detalhes completos dos jogos, incluindo descrição e valor.                                       |    Alta    |          RF02, RF03     |
+| RF23  | A aplicação deve ter uma funcionalidade de busca avançada, permitindo ao usuário pesquisar por jogos por palavras-chave, desenvolvedores ou tags específicas.                  |    Alta    |          RF16     |
+| RF24  | O usuário deve ter a opção de comparar jogos em promoção um abaixo do outro para facilitar a escolha.
+               |    Média    |          RF20     |
+| RF25  | 	O sistema deve oferecer uma seção de "Destaques" que apresente jogos que receberam destaque por novos lançamentos ou atualizações importantes.
+               |    Média    |          RF26     |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
