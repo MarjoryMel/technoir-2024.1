@@ -19,6 +19,12 @@
 | RNF13 | O sistema deve suportar escalabilidade horizontal, permitindo a adição de mais servidores para lidar com o aumento de tráfego sem comprometer o desempenho. | Produto/Desempenho | Alta | RNF07, RNF08 |
 | RNF14 | O sistema deve ser auditável, mantendo logs detalhados de todas as transações e atividades do usuário, que devem ser armazenados por no mínimo 6 meses. | Produto/Segurança | Média | RNF03, RNF10 |
 | RNF15 | O sistema deve ser projetado para minimizar o consumo de recursos no servidor, utilizando técnicas de otimização como cache de dados e compactação de arquivos estáticos. | Produto/Desempenho | Média | RNF07, RNF13|
+| RNF16 | O sistema deve ter um mecanismo para expiração e gerenciamento de sessões de usuário para manter a segurança.| Produto/Segurança | Alta | RNF10|
+| RNF17 | O sistema deve realizar validações de entrada rigorosas para garantir a integridade e a segurança dos dados do usuário.| Produto/Segurança | Alta | RNF19|
+| RNF18 | O sistema deve suportar a sincronização de dados em tempo real para aplicações que exigem atualizações instantâneas, como notificações e interações ao vivo.| Produto/Desempenho | Alta | RNF09|
+| RNF19 | A aplicação deve oferecer uma experiência de usuário consistente em todos os dispositivos, independentemente de plataforma (desktop, tablet, smartphone).| Produto/Usabilidade | Alta | RNF06|
+| RNF20 | O sistema deve permitir que os usuários reportem bugs e problemas diretamente através de um formulário de feedback integrado na página de contato.| Produto/Usabilidade | Média | - |
+| RNF21 | O sistema deve implementar um controle rigoroso de acesso baseado em funções para garantir que apenas usuários autorizados possam acessar áreas e funcionalidades específicas.| Produto/Segurança | Alta | RNF10 |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
