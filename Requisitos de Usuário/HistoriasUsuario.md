@@ -1,6 +1,6 @@
 # 1. História de Usuário
 
-A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
+A Tabela 3 a seguir contém as Histórias de Usuárias: .
 
 <table>
     <thead>
@@ -135,17 +135,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
          <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
-                <ol>
-                    <li>Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</li>
-                </ol>
-            </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF18</td>
-        </tr>
-         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US12</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usuário, desejo que o sistema responda rapidamente a minhas ações para uma navegação fluida e sem frustrações.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
                 <ol>
